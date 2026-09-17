@@ -23,6 +23,18 @@ My academic journey has given me exposure to laboratory practices, microbiology,
 I believe in learning by doing — **understanding a concept, applying it and improving through practice.**
 
 ---
+## ⭐ Featured Work
+
+🌿 **Published Research**  
+[Hemidesmus indicus – Peptic Ulcer Research](https://github.com/dhilipanand-AR/hemidesmus-indicus-peptic-ulcer-research)
+
+🧬 **Bioinformatics Project**  
+[Plant Sequence Analysis](https://github.com/dhilipanand-AR/plant-sequence-analysis)
+
+🌾 **Agricultural Biotechnology**  
+[Early Detection of Wheat Diseases](https://github.com/dhilipanand-AR/Early-detection-of-wheat-diseases)
+
+---
 
 ## 🧬 My Biotechnology Side
 
