@@ -144,13 +144,16 @@ A collection of programming-based problem-solving exercises related to wheat dis
 ## 🏢 Academic & Industrial Exposure
 
 **Tri Biotech, Trichy**
-Microbiology-based internship with exposure to basic laboratory techniques, Petri plates, agar preparation, pipetting, and plant-leaf disease identification.
+
+Microbiology-based internship with exposure to basic laboratory techniques, Petri plates, agar preparation, pipetting and plant-leaf disease identification.
 
 **Shanthi Feeds Private Limited, Coimbatore**
+
 Industrial exposure to poultry-related biotechnology and waste-management concepts.
 
 **Seshasayee Paper and Boards Ltd., Erode**
-Industrial visit covering paper production processes, industrial waste management, and safety practices.
+
+Industrial visit covering paper production processes, industrial waste management and safety practices.
 
 ---
 
