@@ -38,14 +38,22 @@ I am also building my foundation in **programming, data handling, and computatio
 I believe in learning by doing — **understanding a concept, applying it, and improving through practice.**
 
 ---
-
 ## 🎓 Education
 
-**B.Tech Biotechnology**
-**V.S.B Engineering College, Karur**
-Anna University
+**B.Tech. Biotechnology**  
+V.S.B. Engineering College, Karur  
+Affiliated to Anna University  
+**2023 – 2027 | CGPA: 7.88**
 
-**Final Year | CGPA: 7.89**
+**HSC**  
+SRV High Secondary Matriculation School  
+Trichy, Tamil Nadu  
+**2022 – 2023 | Percentage: 77.69%**
+
+**SSLC**  
+Ashoka Sishu Vihar Matriculation School  
+Mannargudi, Tamil Nadu  
+**2020 – 2021 | Percentage: 100%**
 
 ---
 
@@ -183,9 +191,9 @@ I use LeetCode to improve my **problem-solving skills, logical thinking, and pro
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhilipanand-AR&show_icons=true&hide_border=true&title_color=0F766E&icon_color=2563EB&text_color=475569&bg_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhilipanand-AR&show_icons=true&hide_border=true&theme=default&title_color=0F766E&icon_color=2563EB&text_color=475569&bg_color=ffffff&border_radius=15" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipanand-AR&layout=compact&hide_border=true&title_color=0F766E&text_color=475569&bg_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipanand-AR&layout=compact&hide_border=true&title_color=0F766E&text_color=475569&bg_color=ffffff&border_radius=15" />
 
 </div>
 
