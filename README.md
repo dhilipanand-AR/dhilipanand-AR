@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 # 👋 Hi, I'm Dhilip Anand AR
 
 ### 🧬 Biotechnology Student | Exploring Biotechnology, Research & Life Science Applications
