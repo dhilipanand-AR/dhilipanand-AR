@@ -121,7 +121,6 @@ A collection of programming-based problem-solving exercises related to wheat dis
 <p>
 <img src="https://img.shields.io/badge/Java-475569?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-475569?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-BF5A36?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20Excel-0F766E?style=flat-square&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20Word-2563EB?style=flat-square&logo=microsoftword&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerPoint-475569?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
@@ -191,9 +190,7 @@ I use LeetCode to improve my **problem-solving skills, logical thinking, and pro
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhilipanand-AR&show_icons=true&hide_border=true&theme=default&title_color=0F766E&icon_color=2563EB&text_color=475569&bg_color=ffffff&border_radius=15" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilipanand-AR&layout=compact&hide_border=true&title_color=0F766E&text_color=475569&bg_color=ffffff&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhilipanand-AR&show_icons=true&hide_border=true&theme=default" />
 
 </div>
 
