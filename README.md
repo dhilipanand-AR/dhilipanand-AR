@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="biotechnology-lab-banner.png" width="100%" alt="Biotechnology Laboratory">
+<img src="biotechnology-lab-banner.png.png" width="100%" alt="Biotechnology Laboratory">
 
 </div>
 
