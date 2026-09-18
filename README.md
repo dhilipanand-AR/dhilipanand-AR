@@ -1,16 +1,4 @@
 
-<div align="center">
-
-![Biotechnology Profile Banner](profile-banner.png)
-
-### 🧬 Biotechnology • Laboratory Techniques • Bioinformatics • Research • Continuous Learning
-
-</div>
-
----
-
-<div align="center">
-
 # 👋 Hi, I'm Dhilip Anand AR
 
 ### 🧬 Biotechnology Student | Exploring Biotechnology, Research & Life Science Applications
