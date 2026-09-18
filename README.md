@@ -1,4 +1,12 @@
 <div align="center">
+
+<img src="biotechnology-lab-banner.png" width="100%" alt="Biotechnology Laboratory">
+
+</div>
+
+---
+
+<div align="center">
   
 # 👋 Hi, I'm Dhilip Anand AR
 
