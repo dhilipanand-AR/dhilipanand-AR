@@ -37,8 +37,8 @@
 
 ## 🧑‍🔬 About Me
 
-<div align="right">
-<img src="./Male%20researcher%20makes%20test%20using%20microscope%20and%20equipment.gif" width="500" alt="Biotechnology Laboratory Research">
+<div align="center">
+<img src="./Male%20researcher%20makes%20test%20using%20microscope%20and%20equipment.gif" width="300" alt="Biotechnology Laboratory Research">
 </div>
 
 I'm a **Biotechnology student**, exploring the connection between **life sciences and technology**.
