@@ -37,7 +37,11 @@
 
 ## 🧑‍🔬 About Me
 
-I'm a **final-year Biotechnology student at V.S.B Engineering College, Karur**, exploring the connection between **life sciences and technology**.
+<div align="right">
+<img src="./Male%20researcher%20makes%20test%20using%20microscope%20and%20equipment.gif" width="500" alt="Biotechnology Laboratory Research">
+</div>
+
+I'm a **Biotechnology student**, exploring the connection between **life sciences and technology**.
 
 My academic journey has given me exposure to **microbiology, plant biotechnology, laboratory techniques, bioinformatics, research, and agricultural applications**.
 
