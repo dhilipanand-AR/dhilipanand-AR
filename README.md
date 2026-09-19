@@ -47,7 +47,7 @@ My academic journey has given me exposure to **microbiology, plant biotechnology
 
 I am also building my foundation in **programming, data handling, and computational problem-solving**.
 
-I believe in learning by doing — **understanding a concept, applying it, and improving through practice.**
+I believe in learning by doing — **understanding a concept, applying it and improving through practice.**
 
 ---
 ## 🎓 Education
