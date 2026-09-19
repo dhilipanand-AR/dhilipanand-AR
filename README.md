@@ -39,11 +39,12 @@
 
 <div align="center">
 <img src="./Male%20researcher%20makes%20test%20using%20microscope%20and%20equipment.gif" width="300" alt="Biotechnology Laboratory Research">
+  
 </div>
 
 I'm a **Biotechnology student**, exploring the connection between **life sciences and technology**.
 
-My academic journey has given me exposure to **microbiology, plant biotechnology, laboratory techniques, bioinformatics, research, and agricultural applications**.
+My academic journey has given me exposure to **microbiology, plant biotechnology, laboratory techniques, bioinformatics, research and agricultural applications**.
 
 I am also building my foundation in **programming, data handling and computational problem-solving**.
 
