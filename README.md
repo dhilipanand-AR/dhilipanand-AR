@@ -42,13 +42,14 @@
 
 <td width="65%" valign="top">
 
+
 I'm a **Biotechnology student**, exploring the connection between **life sciences and technology**.
 
-My academic journey has given me exposure to **microbiology, plant biotechnology, laboratory techniques, bioinformatics research, and agricultural applications**.
+My academic journey has given me exposure to **microbiology, plant biotechnology, laboratory techniques, bioinformatics research and agricultural applications**.
 
 I am also building my foundation in **programming, data handling, and computational problem-solving**.
 
-I believe in learning by doing — **understanding a concept, applying it, and improving through practice.**
+I believe in learning by doing — **understanding a concept, applying it and improving through practice.**
 
 </td>
 
