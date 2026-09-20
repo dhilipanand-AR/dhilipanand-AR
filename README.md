@@ -37,18 +37,29 @@
 
 ## 🧑‍🔬 About Me
 
-<div align="center">
-<img src="./Male%20researcher%20makes%20test%20using%20microscope%20and%20equipment.gif" width="300" alt="Biotechnology Laboratory Research">
-  
-</div>
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 I'm a **Biotechnology student**, exploring the connection between **life sciences and technology**.
 
-My academic journey has given me exposure to **microbiology, plant biotechnology, laboratory techniques, bioinformatics, research and agricultural applications**.
+My academic journey has given me exposure to **microbiology, plant biotechnology, laboratory techniques, bioinformatics research, and agricultural applications**.
 
-I am also building my foundation in **programming, data handling and computational problem-solving**.
+I am also building my foundation in **programming, data handling, and computational problem-solving**.
 
-I believe in learning by doing — **understanding a concept, applying it and improving through practice.**
+I believe in learning by doing — **understanding a concept, applying it, and improving through practice.**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./Male%20researcher%20makes%20test%20using%20microscope%20and%20equipment.gif" width="280" alt="Biotechnology Laboratory Research">
+
+</td>
+
+</tr>
+</table>
 
 ---
 ## 🎓 Education
