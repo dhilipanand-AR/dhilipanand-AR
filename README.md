@@ -5,7 +5,6 @@
      alt="Biotechnology Laboratory">
 
 </div>
----
 
 <div align="center">
   
