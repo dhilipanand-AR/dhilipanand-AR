@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="biotechnology-lab-banner.png.png" width="100%" alt="Biotechnology Laboratory">
+<img src="./biotechnology_realistic_animated_github_banner.gif"
+     width="100%"
+     alt="Biotechnology Laboratory">
 
 </div>
-
 ---
 
 <div align="center">
