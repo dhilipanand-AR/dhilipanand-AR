@@ -217,7 +217,19 @@ I use LeetCode to improve my **problem-solving skills, logical thinking, and pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhilipanand-AR&show_icons=true&hide_border=true&theme=default" />
+### 💻 GitHub Profile
+
+📦 **Repositories** • 🧬 **Biotechnology Projects** • 💻 **Programming Practice** • 🔬 **Research Work**
+
+<br>
+
+<a href="https://github.com/dhilipanand-AR?tab=repositories">
+<img src="https://img.shields.io/badge/View%20My%20Repositories-0F766E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/dhilipanand-AR?tab=stars">
+<img src="https://img.shields.io/badge/View%20My%20Starred%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
