@@ -28,7 +28,6 @@
 </a>
 
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=dhilipanand-AR&label=Profile%20Views&color=0F766E&style=flat" alt="Profile Views" />
 
 </div>
