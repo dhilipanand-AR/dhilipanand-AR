@@ -185,6 +185,7 @@ Industrial visit covering paper production processes, industrial waste managemen
 * NPTEL — Industrial Biotechnology
 * NPTEL — Bioinformatics: Algorithms & Applications
 * Infosys — Microbiology of Air, Milk, Soil & Food
+* Infosys — Complete Guide to Microbiology
 * TCS iON — Career Edge: Young Professional
 * TCS iON — Master Data Management for Beginners
 * Cisco — Introduction to Cyber Security
@@ -192,7 +193,6 @@ Industrial visit covering paper production processes, industrial waste managemen
 * Infosys — Java Programming Fundamentals
 * Saylor — Communicating with Data
 * Diploma in Computer Application
-* Complete Guide to Microbiology
 
 ---
 
