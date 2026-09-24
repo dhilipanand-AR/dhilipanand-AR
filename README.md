@@ -190,6 +190,7 @@ Industrial visit covering paper production processes, industrial waste managemen
 * TCS iON — Master Data Management for Beginners
 * Cisco — Introduction to Cyber Security
 * Infosys — Python Fundamentals
+* Simplilearn — Introduction to SQL
 * Infosys — Java Programming Fundamentals
 * Saylor — Communicating with Data
 * Diploma in Computer Application
