@@ -66,7 +66,7 @@ I believe in learning by doing — **understanding a concept, applying it and im
 **B.Tech. Biotechnology**  
 V.S.B. Engineering College, Karur  
 Affiliated to Anna University  
-**2023 – 2027 | CGPA: 7.88**
+**2023 – 2027 | CGPA: 7.89**
 
 **HSC**  
 SRV High Secondary Matriculation School  
