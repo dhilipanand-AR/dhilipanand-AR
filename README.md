@@ -194,7 +194,6 @@ Industrial visit covering paper production processes, industrial waste managemen
 * Infosys — Java Programming Fundamentals
 * Saylor — Communicating with Data
 * Diploma in Computer Application
-* Simplilearn — Introduction to SQL 
 
 ---
 
